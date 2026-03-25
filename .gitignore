@@ -1,0 +1,18 @@
+# Godot 4 .gitignore
+
+# Godot-specific ignores
+.godot/
+*.translation
+
+# Export templates and binaries
+/android/
+/ios/
+/export/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
